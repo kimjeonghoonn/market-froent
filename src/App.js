@@ -13,6 +13,7 @@ function App() {
     return (
         <div>
             <div id="header">
+                <H1>16:47</H1>
                 <HaderPage />
             </div>
             <div id="body">
